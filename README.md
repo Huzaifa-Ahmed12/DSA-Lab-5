@@ -1,1 +1,2 @@
 # DSA-Lab-5
+A priority queue is a special type of queue in which elements are dequeued based on their priority rather than the order in which they were added. It follows the First-In, Highest-Priority-Out principle, where elements with higher priority are served before those with lower priority. Priority queues can be implemented using heaps (binary heap is most common), linked lists, or balanced trees. They are widely used in applications like Dijkstra’s algorithm, task scheduling, and operating systems for managing processes efficiently.
